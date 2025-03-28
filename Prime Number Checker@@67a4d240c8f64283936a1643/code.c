@@ -19,7 +19,7 @@ int main(){
     while(t--){
         int num;
         scanf("%d",&num);
-        printf("%d", isprime(num));
+        printf("%d", isPrime(num));
 
     }
     return 0;
